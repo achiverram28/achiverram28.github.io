@@ -1,7 +1,7 @@
 ---
 title: "Hyperbolic Fine-Tuning for Large Language Models"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/hyplora
 excerpt: ''
 date: 2025-12-06
